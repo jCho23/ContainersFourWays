@@ -24,7 +24,7 @@ In this lab, we will walk-through how to deploy containers in Azure four ways:
 This Azure Container Workshop was created by Ian Leatherbury's Technical Team at Microsoft:
 * [Adam Hockemyer](https://github.com/adamhockemeyer)
 * June Cho
-* Mannie Tagarira
+* [Mannie Tagarira](https://github.com/mannie)
 * [Ash Cortez-Taylor](https://github.com/ascortez)
 * [Andrew Chung](https://github.com/andrewchungxam)
 
