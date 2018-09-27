@@ -25,7 +25,7 @@ This Azure Container Workshop was created by Ian Leatherbury's Technical Team at
 * [Adam Hockemyer](https://github.com/adamhockemeyer)
 * June Cho
 * Mannie Tagarira
-* Ash Cortez-Taylor
+* [Ash Cortez-Taylor](https://github.com/ascortez)
 * Andrew Chung
 
 # License 
