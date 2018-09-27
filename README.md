@@ -9,10 +9,10 @@ Containers also isolate applications from each other on a shared OS. Containeriz
 
 Another benefit of containerization is scalability. You can scale out quickly by creating new containers for short-term tasks. From an application point of view, instantiating an image (creating a container) is similar to instantiating a process like a service or web app. For reliability, however, when you run multiple instances of the same image across multiple host servers, you typically want each container (image instance) to run in a different host server or VM in different fault domains.
 
-In short, containers offer the benefits of isolation, portability, agility, scalability, and control across the whole application lifecycle workflow. The most important benefit is the environment's isolation provided between Dev and Ops
+In short, containers offer the benefits of isolation, portability, agility, scalability, and control across the whole application lifecycle workflow. The most important benefit is the environment's isolation provided between Dev and Ops.
 
 # Containers Four Ways in Azure
-In this lab, we will showcase how to deploy containers in Azure four ways:
+In this lab, we will walk-through how to deploy containers in Azure four ways:
 1. [App Service](https://azure.microsoft.com/en-us/services/app-service/) 
 2. [Service Fabric](https://azure.microsoft.com/en-us/services/service-fabric/)
 3. [Azure Kubernetes Service](https://azure.microsoft.com/en-us/free/kubernetes-service/search/?&OCID=AID719825_SEM_LPmbT3sq&lnkd=Google_Azure_Brand&gclid=Cj0KCQjw_7HdBRDPARIsAN_ltcJApFDF6gPnEVs6pjFjKlaAnfwU-qeWywytCzkIbYRe9qUo0p5WiZYaAtJ9EALw_wcB&dclid=CJOeraOT3N0CFVg9TwodhDUJQA)
