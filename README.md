@@ -7,6 +7,10 @@ Just as shipping containers allow goods to be transported by ship, train, or tru
 
 Containers also isolate applications from each other on a shared OS. Containerized applications run on top of a container host that in turn runs on the OS (Linux or Windows). Containers therefore have a significantly smaller footprint than virtual machine (VM) images.
 
+Another benefit of containerization is scalability. You can scale out quickly by creating new containers for short-term tasks. From an application point of view, instantiating an image (creating a container) is similar to instantiating a process like a service or web app. For reliability, however, when you run multiple instances of the same image across multiple host servers, you typically want each container (image instance) to run in a different host server or VM in different fault domains.
+
+In short, containers offer the benefits of isolation, portability, agility, scalability, and control across the whole application lifecycle workflow. The most important benefit is the environment's isolation provided between Dev and Ops
+
 # Containers Four Ways in Azure
 In this lab, we will showcase how to deploy containers in Azure four ways:
 1. [App Service](https://azure.microsoft.com/en-us/services/app-service/) 
