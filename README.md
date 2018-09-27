@@ -10,7 +10,7 @@ Containers also isolate applications from each other on a shared OS. Containeriz
 # Containers Four Ways in Azure
 In this lab, we will showcase how to deploy containers in Azure four ways:
 1. [App Service](https://azure.microsoft.com/en-us/services/app-service/) 
-2. Service Fabric
+2. [Service Fabric](https://azure.microsoft.com/en-us/services/service-fabric/)
 3. Azure Kubernetes Service 
 4. Azure Container Instances 
 
