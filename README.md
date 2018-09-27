@@ -11,6 +11,8 @@ Another benefit of containerization is scalability. You can scale out quickly by
 
 In short, containers offer the benefits of isolation, portability, agility, scalability, and control across the whole application lifecycle workflow. The most important benefit is the environment's isolation provided between Dev and Ops.
 
+Since containers come in many different flavors, we decided to create a workshop that will guide you through setting up and deploying different containers in Azure. 
+
 # Containers Four Ways in Azure
 In this lab, we will walk-through how to deploy containers in Azure four ways:
 1. [App Service](https://azure.microsoft.com/en-us/services/app-service/) 
